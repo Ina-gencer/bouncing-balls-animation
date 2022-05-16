@@ -1,0 +1,18 @@
+.box {
+    width: 50px;
+    height: 50px;
+    border-radius: 80px;
+    display: inline-block;
+    margin: 50px;
+}
+
+.red {
+    background:  rgb(241, 77, 77);
+}
+.blue {
+    background: rgb(119, 119, 228);
+}
+
+.yellow {
+    background: rgb(235, 235, 130);
+}
